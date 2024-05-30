@@ -1,0 +1,10 @@
+C:\Users\Darko\source\repos\RedCircles\RedCircles\bin\Debug\RedCircles.exe.config
+C:\Users\Darko\source\repos\RedCircles\RedCircles\bin\Debug\RedCircles.exe
+C:\Users\Darko\source\repos\RedCircles\RedCircles\bin\Debug\RedCircles.pdb
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.Form1.resources
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.Properties.Resources.resources
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.csproj.GenerateResource.cache
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.exe
+C:\Users\Darko\source\repos\RedCircles\RedCircles\obj\Debug\RedCircles.pdb
