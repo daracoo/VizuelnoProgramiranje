@@ -1,0 +1,10 @@
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.exe.config
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.exe
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\bin\Debug\FlyingBalls.pdb
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.Form1.resources
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.Properties.Resources.resources
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.GenerateResource.cache
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.exe
+C:\Users\Darko\source\repos\FlyingBalls\FlyingBalls\obj\Debug\FlyingBalls.pdb
