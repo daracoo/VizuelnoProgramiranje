@@ -1,0 +1,11 @@
+C:\Users\Darko\source\repos\CashAccount\CashAccount\bin\Debug\CashAccount.exe.config
+C:\Users\Darko\source\repos\CashAccount\CashAccount\bin\Debug\CashAccount.exe
+C:\Users\Darko\source\repos\CashAccount\CashAccount\bin\Debug\CashAccount.pdb
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.Form1.resources
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.NewProduct.resources
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.Properties.Resources.resources
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.csproj.GenerateResource.cache
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.exe
+C:\Users\Darko\source\repos\CashAccount\CashAccount\obj\Debug\CashAccount.pdb
